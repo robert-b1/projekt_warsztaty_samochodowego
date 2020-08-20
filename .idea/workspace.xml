@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec849619-d67c-47f4-9623-44200b375d37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projekt_warsztau_samochodowego.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarWorkshopApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/doMain/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/doMain/ChangeOileServise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/doMain/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/doMain/ClientIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/doMain/NitroInstallationServise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/doMain/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/doMain/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CarWorkshopApp$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CarWorkshopApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/doMain/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/doMain/ChangeOileServise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/doMain/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/doMain/ClientIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/doMain/NitroInstallationServise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/doMain/Price.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/doMain/Service.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Robert\intellijultimate\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CarWorkshopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarWorkshopApp" />
+      <module name="projekt_warsztau_samochodowego" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarWorkshopApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec849619-d67c-47f4-9623-44200b375d37" name="Default Changelist" comment="" />
+      <created>1597930763753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597930763753</updated>
+      <workItem from="1597930764873" duration="6090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1597933405499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1597933405499" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597937230966">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597937230966" />
+    <state x="819" y="111" key="refactoring.ChangeSignatureDialog" timestamp="1597932669798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="819" y="111" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1597932669798" />
+  </component>
+</project>
